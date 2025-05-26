@@ -1,4 +1,4 @@
-public public class SimpleStack {
+ public class SimpleStack {
     private int[] stack;
     private int top;
     private int capacity;
@@ -45,6 +45,5 @@ public public class SimpleStack {
             System.out.println(e.getMessage());
         }
     }
-} SimpleStack {
-    
-}
+    } 
+
